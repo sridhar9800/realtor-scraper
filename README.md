@@ -1,2 +1,2 @@
 # Realtor Scraper
- Python webscraping program that retrieves real estate data from realtor.com and outputs it into a csv file
+ Python webscraper, capable of scraping listings from Realtor.com based on a certain inputted region.
